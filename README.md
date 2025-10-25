@@ -36,6 +36,8 @@
 
 ## Rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [smol-rs/fastrand](https://github.com/smol-rs/fastrand) - A simple and fast random number generator
 - [mgeier/rtrb](https://github.com/mgeier/rtrb) - A realtime-safe single-producer single-consumer (SPSC) ring buffer
@@ -87,7 +89,7 @@
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [pkalivas/radiate](https://github.com/pkalivas/radiate) - A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [patricksongzy/corgi](https://github.com/patricksongzy/corgi) - A neural network, and tensor dynamic automatic differentiation implementation for Rust.
 - [c0dearm/mushin](https://github.com/c0dearm/mushin) - Computational graphs with reverse automatic differentation in the GPU
 - [hakolao/sandbox](https://github.com/hakolao/sandbox) - 2D Pixel Physics Simulator
