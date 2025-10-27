@@ -110,7 +110,7 @@
 ## compiler 
 
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## css 
