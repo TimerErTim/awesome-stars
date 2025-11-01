@@ -115,6 +115,7 @@
 
 ## Typst 
 
+- [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
 - [Mc-Zen/zero](https://github.com/Mc-Zen/zero) - Advanced scientific number formatting for Typst.
 - [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
