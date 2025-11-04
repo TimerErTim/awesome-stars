@@ -13,6 +13,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Typst](#typst)
+- [Vala](#vala)
 
 ## Dockerfile 
 
@@ -31,12 +32,13 @@
 
 ## Python 
 
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading: https://ai4trade.ai
 - [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [smol-rs/async-executor](https://github.com/smol-rs/async-executor) - Async executor
@@ -114,7 +116,7 @@
 
 ## TypeScript 
 
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
@@ -128,6 +130,10 @@
 - [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
 - [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
 - [yunanwg/brilliant-CV](https://github.com/yunanwg/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more
+
+## Vala 
+
+- [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 
 ## License
