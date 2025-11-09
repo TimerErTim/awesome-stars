@@ -13,6 +13,7 @@
 - [automation](#automation)
 - [babel](#babel)
 - [backend](#backend)
+- [bash](#bash)
 - [blockchain](#blockchain)
 - [cli](#cli)
 - [compiler](#compiler)
@@ -52,6 +53,7 @@
 - [others](#others)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
 - [python](#python)
@@ -71,6 +73,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -108,6 +111,10 @@
 ## backend 
 
 - [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+
+## bash 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## blockchain 
 
@@ -183,6 +190,7 @@
 
 ## game-development 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Indra-db/Flecs-Rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs: A Fast and Flexible Entity Component System (ECS)
 - [Nazariglez/notan](https://github.com/Nazariglez/notan) - Cross-platform multimedia layer
@@ -192,6 +200,7 @@
 
 ## game-engine 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
 - [hakolao/sandbox](https://github.com/hakolao/sandbox) - 2D Pixel Physics Simulator
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
@@ -200,6 +209,7 @@
 
 ## gamedev 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
 - [Indra-db/Flecs-Rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs: A Fast and Flexible Entity Component System (ECS)
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
@@ -303,6 +313,7 @@
 
 ## open-source 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ## opengl 
@@ -347,6 +358,10 @@
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
+## powershell 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
 ## productivity 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -373,6 +388,8 @@
 
 ## rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
@@ -485,6 +502,10 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
+
+## zsh 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 ## License
