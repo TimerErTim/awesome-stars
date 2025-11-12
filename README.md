@@ -21,6 +21,7 @@
 
 ## JavaScript 
 
+- [taylorh140/typst-pintora](https://github.com/taylorh140/typst-pintora) - A packaged version of pintora intended as a typst plugin.
 - [peter-murray/setup-detekt](https://github.com/peter-murray/setup-detekt) - GitHub Action for resolving and installing a specific version of detekt on a GitHub Actions Runner.
 
 ## Kotlin 
@@ -38,6 +39,7 @@
 
 ## Rust 
 
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
