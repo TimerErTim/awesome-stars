@@ -17,6 +17,7 @@
 - [blockchain](#blockchain)
 - [cli](#cli)
 - [cms](#cms)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [css](#css)
 - [data-science](#data-science)
@@ -133,6 +134,11 @@
 ## cms 
 
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
+## command-line 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ## compiler 
 
