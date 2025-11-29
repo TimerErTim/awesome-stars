@@ -298,6 +298,7 @@
 
 ## machine-learning 
 
+- [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
