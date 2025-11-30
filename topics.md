@@ -346,6 +346,7 @@
 
 ## others 
 
+- [ntjess/wrap-it](https://github.com/ntjess/wrap-it) - wrap text around Typst figures and content
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
