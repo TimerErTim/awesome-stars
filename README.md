@@ -132,6 +132,7 @@
 
 ## Typst 
 
+- [ntjess/wrap-it](https://github.com/ntjess/wrap-it) - wrap text around Typst figures and content
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
