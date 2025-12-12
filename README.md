@@ -133,6 +133,9 @@
 
 ## Typst 
 
+- [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
+- [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
+- [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
 - [qo/term](https://github.com/qo/term) - emulate terminal screenshots in typst
 - [ntjess/wrap-it](https://github.com/ntjess/wrap-it) - wrap text around Typst figures and content
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
