@@ -71,6 +71,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [trading](#trading)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
@@ -501,6 +502,11 @@
 ## trading 
 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+
+## tui 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 ## typescript 
 
