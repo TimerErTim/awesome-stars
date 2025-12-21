@@ -347,6 +347,7 @@
 
 ## others 
 
+- [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
 - [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
 - [qo/term](https://github.com/qo/term) - emulate terminal screenshots in typst
@@ -404,7 +405,7 @@
 
 ## python 
 
-- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - A library for creating smooth animations
+- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -525,7 +526,7 @@
 
 ## visualization 
 
-- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - A library for creating smooth animations
+- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
