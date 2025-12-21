@@ -33,7 +33,7 @@
 
 ## Python 
 
-- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - A library for creating smooth animations
+- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
@@ -133,6 +133,7 @@
 
 ## Typst 
 
+- [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
 - [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
 - [Dherse/codly](https://github.com/Dherse/codly) - A Typst package for even better code blocks
