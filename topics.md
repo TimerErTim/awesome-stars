@@ -248,7 +248,6 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 
 ## html 
 
@@ -408,7 +407,6 @@
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [pkalivas/radiate](https://github.com/pkalivas/radiate) - A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques
 
 ## pytorch 
