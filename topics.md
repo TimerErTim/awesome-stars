@@ -346,6 +346,7 @@
 
 ## others 
 
+- [bevyengine/dlss_wgpu](https://github.com/bevyengine/dlss_wgpu) - 
 - [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
 - [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
@@ -420,6 +421,8 @@
 
 ## rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
