@@ -114,7 +114,6 @@
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [pkalivas/radiate](https://github.com/pkalivas/radiate) - A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-- [patricksongzy/corgi](https://github.com/patricksongzy/corgi) - A neural network, and tensor dynamic automatic differentiation implementation for Rust.
 - [c0dearm/mushin](https://github.com/c0dearm/mushin) - Computational graphs with reverse automatic differentation in the GPU
 - [hakolao/sandbox](https://github.com/hakolao/sandbox) - 2D Pixel Physics Simulator
 - [RaphaelDarley/sybil](https://github.com/RaphaelDarley/sybil) - Knowledge management program written in Rust.
