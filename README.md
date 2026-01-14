@@ -137,6 +137,7 @@
 
 ## Typst 
 
+- [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit) - Relative positioning by pins, especially useful for making slides in typst.
 - [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
 - [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
 - [Vanille-N/meander.typ](https://github.com/Vanille-N/meander.typ) - Text threading and image wrap-around for Typst
