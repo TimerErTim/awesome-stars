@@ -81,13 +81,13 @@
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [khonsulabs/cushy-clicker](https://github.com/khonsulabs/cushy-clicker) - A proof-of-concept library for creating clicker/incremental games in Rust using Cushy
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [Indra-db/Flecs-Rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs: A Fast and Flexible Entity Component System (ECS)
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
 - [NoahGav/oxide-lang](https://github.com/NoahGav/oxide-lang) - 
