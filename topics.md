@@ -19,6 +19,7 @@
 - [code](#code)
 - [command-line](#command-line)
 - [compiler](#compiler)
+- [cryptography](#cryptography)
 - [css](#css)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -27,6 +28,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [docker](#docker)
+- [embedded](#embedded)
 - [finance](#finance)
 - [framework](#framework)
 - [game](#game)
@@ -57,9 +59,11 @@
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [others](#others)
+- [p2p](#p2p)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
 - [python](#python)
@@ -151,6 +155,10 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
+## cryptography 
+
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+
 ## css 
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -190,6 +198,10 @@
 ## docker 
 
 - [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - Batteries-included CDN, reverse proxy and Load Balancer with Docker support using Cloudflare Pingora.
+
+## embedded 
+
+- [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
 ## finance 
 
@@ -397,6 +409,10 @@
 - [RaphaelDarley/sybil](https://github.com/RaphaelDarley/sybil) - Knowledge management program written in Rust.
 - [peter-murray/setup-detekt](https://github.com/peter-murray/setup-detekt) - GitHub Action for resolving and installing a specific version of detekt on a GitHub Actions Runner.
 
+## p2p 
+
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+
 ## pixel-art 
 
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
@@ -408,6 +424,10 @@
 ## powershell 
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+## privacy 
+
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 
 ## productivity 
 
@@ -436,6 +456,8 @@
 
 ## rust 
 
+- [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [sassman/putzen-rs](https://github.com/sassman/putzen-rs) - "putzen" is German and means cleaning. It helps keeping your disk clean of build and dependency artifacts safely.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data
