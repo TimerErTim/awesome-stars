@@ -42,6 +42,8 @@
 
 ## Rust 
 
+- [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [sassman/putzen-rs](https://github.com/sassman/putzen-rs) - "putzen" is German and means cleaning. It helps keeping your disk clean of build and dependency artifacts safely.
 - [cledouarec/sara](https://github.com/cledouarec/sara) - Streamlining Solution, Architecture, and Requirements for perfect Alignment.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
