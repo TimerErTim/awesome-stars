@@ -85,6 +85,7 @@
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
 - [zsh](#zsh)
@@ -584,6 +585,10 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+
+## web-development 
+
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 
 ## webapp 
 
