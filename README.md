@@ -8,6 +8,7 @@
 - [Dockerfile](#dockerfile)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -30,6 +31,10 @@
 - [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+## Others 
+
+- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 
 ## Python 
 
