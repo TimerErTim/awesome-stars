@@ -106,7 +106,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 - [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 
 ## api 
 
@@ -242,7 +242,7 @@
 - [hakolao/sandbox](https://github.com/hakolao/sandbox) - 2D Pixel Physics Simulator
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 
 ## gamedev 
 
@@ -289,7 +289,7 @@
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 
 ## javascript 
 
@@ -305,7 +305,7 @@
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 - [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
 - [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## linux 
