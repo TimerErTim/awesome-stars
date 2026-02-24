@@ -366,6 +366,7 @@
 
 ## open-source 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
@@ -376,6 +377,8 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 - [cledouarec/sara](https://github.com/cledouarec/sara) - Streamlining Solution, Architecture, and Requirements for perfect Alignment.
 - [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit) - Relative positioning by pins, especially useful for making slides in typst.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -464,6 +467,7 @@
 
 ## rust 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Adam-Gleave/svo-rs](https://github.com/Adam-Gleave/svo-rs) - Sparse Voxel Octree (SVO) in Rust.
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
@@ -558,6 +562,7 @@
 
 ## typescript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ## ui 
