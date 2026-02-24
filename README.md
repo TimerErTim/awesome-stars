@@ -47,6 +47,9 @@
 
 ## Rust 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 - [Adam-Gleave/svo-rs](https://github.com/Adam-Gleave/svo-rs) - Sparse Voxel Octree (SVO) in Rust.
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
