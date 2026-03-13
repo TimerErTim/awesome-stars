@@ -41,11 +41,15 @@
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- [minikin/uncertain-rs](https://github.com/minikin/uncertain-rs) - A Rust library for uncertainty-aware programming, implementing the approach from "Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data" by Bornholt, Mytkowicz, and McKinley.
+- [HSGamer/pintora4typst](https://github.com/HSGamer/pintora4typst) - A Typst plugin to render diagrams based on Pintora (fork of pintorita)
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 - [Logicalshift/flo_draw](https://github.com/Logicalshift/flo_draw) - 2D rendering libraries for Rust and FlowBetween
@@ -147,7 +151,6 @@
 
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
