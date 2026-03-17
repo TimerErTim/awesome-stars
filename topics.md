@@ -385,6 +385,7 @@
 
 ## others 
 
+- [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons) - Community-based fork of Motion Canvas.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [HSGamer/pintora4typst](https://github.com/HSGamer/pintora4typst) - A Typst plugin to render diagrams based on Pintora (fork of pintorita)
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
