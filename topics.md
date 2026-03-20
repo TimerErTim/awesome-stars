@@ -385,6 +385,7 @@
 
 ## others 
 
+- [Mc-Zen/tidy](https://github.com/Mc-Zen/tidy) - A documentation generator for Typst in Typst.
 - [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons) - Community-based fork of Motion Canvas.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [HSGamer/pintora4typst](https://github.com/HSGamer/pintora4typst) - A Typst plugin to render diagrams based on Pintora (fork of pintorita)
@@ -486,6 +487,7 @@
 
 ## rust 
 
+- [Mc-Zen/komet](https://github.com/Mc-Zen/komet) - Selected high-performance computations for Typst
 - [minikin/uncertain-rs](https://github.com/minikin/uncertain-rs) - A Rust library for uncertainty-aware programming, implementing the approach from "Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data" by Bornholt, Mytkowicz, and McKinley.
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
