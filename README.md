@@ -47,6 +47,7 @@
 
 ## Rust 
 
+- [Mc-Zen/komet](https://github.com/Mc-Zen/komet) - Selected high-performance computations for Typst
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [minikin/uncertain-rs](https://github.com/minikin/uncertain-rs) - A Rust library for uncertainty-aware programming, implementing the approach from "Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data" by Bornholt, Mytkowicz, and McKinley.
 - [HSGamer/pintora4typst](https://github.com/HSGamer/pintora4typst) - A Typst plugin to render diagrams based on Pintora (fork of pintorita)
@@ -159,6 +160,7 @@
 
 ## Typst 
 
+- [Mc-Zen/tidy](https://github.com/Mc-Zen/tidy) - A documentation generator for Typst in Typst.
 - [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit) - Relative positioning by pins, especially useful for making slides in typst.
 - [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
 - [liuguangxi/suiji](https://github.com/liuguangxi/suiji) - A high efficient random number generator in Typst
