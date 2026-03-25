@@ -160,6 +160,7 @@
 
 ## Typst 
 
+- [catppuccin/typst](https://github.com/catppuccin/typst) - 🪶 Soothing pastel theme for Typst
 - [Mc-Zen/tidy](https://github.com/Mc-Zen/tidy) - A documentation generator for Typst in Typst.
 - [OrangeX4/typst-pinit](https://github.com/OrangeX4/typst-pinit) - Relative positioning by pins, especially useful for making slides in typst.
 - [flavio20002/typst-orange-template](https://github.com/flavio20002/typst-orange-template) - The Legrand Orange Book implemented in Typst
