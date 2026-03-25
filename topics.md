@@ -269,6 +269,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/typst](https://github.com/catppuccin/typst) - 🪶 Soothing pastel theme for Typst
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
