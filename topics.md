@@ -28,6 +28,7 @@
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [embedded](#embedded)
 - [finance](#finance)
@@ -203,6 +204,10 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+## distributed-systems 
+
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## docker 
 
