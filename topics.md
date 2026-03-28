@@ -113,7 +113,7 @@
 
 ## api 
 
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 
 ## artificial-intelligence 
 
@@ -126,7 +126,7 @@
 
 ## backend 
 
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 
 ## bash 
 
@@ -223,7 +223,7 @@
 
 ## framework 
 
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 - [elftausend/custos](https://github.com/elftausend/custos) - A minimal OpenCL, CUDA, Vulkan and host CPU array manipulation engine / framework.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 
@@ -274,6 +274,7 @@
 
 ## hacktoberfest 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [catppuccin/typst](https://github.com/catppuccin/typst) - 🪶 Soothing pastel theme for Typst
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -301,11 +302,12 @@
 
 ## javascript 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [sassman/putzen-rs](https://github.com/sassman/putzen-rs) - "putzen" is German and means cleaning. It helps keeping your disk clean of build and dependency artifacts safely.
 
 ## json 
 
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 
 ## kotlin 
@@ -391,6 +393,9 @@
 
 ## others 
 
+- [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
+- [rojul/typst-zebra](https://github.com/rojul/typst-zebra) - A QR code and Data Matrix generator using Typst native rendering.
+- [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
 - [Mc-Zen/tidy](https://github.com/Mc-Zen/tidy) - A documentation generator for Typst in Typst.
 - [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons) - Community-based fork of Motion Canvas.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
@@ -472,7 +477,7 @@
 
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [pkalivas/radiate](https://github.com/pkalivas/radiate) - A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques
@@ -493,6 +498,8 @@
 
 ## rust 
 
+- [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [Mc-Zen/komet](https://github.com/Mc-Zen/komet) - Selected high-performance computations for Typst
 - [minikin/uncertain-rs](https://github.com/minikin/uncertain-rs) - A Rust library for uncertainty-aware programming, implementing the approach from "Uncertain&lt;T&gt;: A First-Order Type for Uncertain Data" by Bornholt, Mytkowicz, and McKinley.
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
@@ -624,7 +631,7 @@
 
 ## web 
 
-- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility, and simplicity, built on top of ASGI for asynchronous capabilities, featuring modular routing, automatic API documentation, and
+- [nexios-labs/nexios](https://github.com/nexios-labs/nexios) - The Utility first python web toolkit
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
