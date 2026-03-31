@@ -6,6 +6,7 @@
 ## Contents
 
 - [Dockerfile](#dockerfile)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Others](#others)
@@ -19,6 +20,10 @@
 ## Dockerfile 
 
 - [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
+
+## Java 
+
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## JavaScript 
 
@@ -47,6 +52,7 @@
 
 ## Rust 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [rojul/typst-zebra](https://github.com/rojul/typst-zebra) - A QR code and Data Matrix generator using Typst native rendering.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
