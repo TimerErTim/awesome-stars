@@ -44,6 +44,7 @@
 - [html5](#html5)
 - [image-processing](#image-processing)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -105,6 +106,7 @@
 
 ## android 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
@@ -229,6 +231,7 @@
 
 ## game 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [AnthonyTornetta/Cosmos](https://github.com/AnthonyTornetta/Cosmos) - A multiplayer block-based space exporation game in active development
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 
@@ -299,6 +302,10 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 - [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
+
+## java 
+
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## javascript 
 
@@ -393,6 +400,7 @@
 
 ## others 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [rojul/typst-zebra](https://github.com/rojul/typst-zebra) - A QR code and Data Matrix generator using Typst native rendering.
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
