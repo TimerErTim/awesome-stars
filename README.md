@@ -52,6 +52,7 @@
 
 ## Rust 
 
+- [yunjhongwu/burn-rl-examples](https://github.com/yunjhongwu/burn-rl-examples) - Reinforcement Learning with Burn in Rust
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [rojul/typst-zebra](https://github.com/rojul/typst-zebra) - A QR code and Data Matrix generator using Typst native rendering.
