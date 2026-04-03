@@ -74,6 +74,7 @@
 - [pytorch](#pytorch)
 - [rag](#rag)
 - [react](#react)
+- [reinforcement-learning](#reinforcement-learning)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
@@ -504,8 +505,13 @@
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 
+## reinforcement-learning 
+
+- [yunjhongwu/burn-rl-examples](https://github.com/yunjhongwu/burn-rl-examples) - Reinforcement Learning with Burn in Rust
+
 ## rust 
 
+- [yunjhongwu/burn-rl-examples](https://github.com/yunjhongwu/burn-rl-examples) - Reinforcement Learning with Burn in Rust
 - [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [Mc-Zen/komet](https://github.com/Mc-Zen/komet) - Selected high-performance computations for Typst
