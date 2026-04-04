@@ -31,6 +31,7 @@
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [embedded](#embedded)
+- [esp32](#esp32)
 - [finance](#finance)
 - [framework](#framework)
 - [game](#game)
@@ -142,7 +143,6 @@
 ## cli 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 ## cms 
@@ -220,6 +220,10 @@
 
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
+## esp32 
+
+- [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
+
 ## finance 
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -269,7 +273,6 @@
 ## git 
 
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 
 ## gui 
 
@@ -440,6 +443,7 @@
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [khonsulabs/cushy-clicker](https://github.com/khonsulabs/cushy-clicker) - A proof-of-concept library for creating clicker/incremental games in Rust using Cushy
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
