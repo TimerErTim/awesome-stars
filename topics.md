@@ -272,7 +272,7 @@
 
 ## git 
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 
 ## gui 
 
@@ -404,6 +404,7 @@
 
 ## others 
 
+- [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [rojul/typst-zebra](https://github.com/rojul/typst-zebra) - A QR code and Data Matrix generator using Typst native rendering.
