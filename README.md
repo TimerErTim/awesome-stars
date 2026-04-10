@@ -52,6 +52,8 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
 - [yunjhongwu/burn-rl-examples](https://github.com/yunjhongwu/burn-rl-examples) - Reinforcement Learning with Burn in Rust
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
