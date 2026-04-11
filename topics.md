@@ -407,6 +407,7 @@
 
 ## others 
 
+- [Enter-tainer/zint-wasi](https://github.com/Enter-tainer/zint-wasi) - Barcode generator for typst
 - [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
