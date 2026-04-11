@@ -52,6 +52,7 @@
 
 ## Rust 
 
+- [Enter-tainer/zint-wasi](https://github.com/Enter-tainer/zint-wasi) - Barcode generator for typst
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
