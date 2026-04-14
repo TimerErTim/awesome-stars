@@ -407,6 +407,7 @@
 
 ## others 
 
+- [rust-works/succinctly](https://github.com/rust-works/succinctly) - Succinct data structures
 - [Enter-tainer/zint-wasi](https://github.com/Enter-tainer/zint-wasi) - Barcode generator for typst
 - [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
