@@ -38,6 +38,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -142,6 +143,7 @@
 
 ## cli 
 
+- [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
@@ -269,6 +271,10 @@
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
+
+## gh-extension 
+
+- [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
 
 ## git 
 
@@ -407,6 +413,8 @@
 
 ## others 
 
+- [josephschmitt/zide](https://github.com/josephschmitt/zide) - Group of configuration files and scripts to create an IDE-like experience in zellij
+- [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rust-works/succinctly](https://github.com/rust-works/succinctly) - Succinct data structures
 - [Enter-tainer/zint-wasi](https://github.com/Enter-tainer/zint-wasi) - Barcode generator for typst
 - [RPP1011/rl4burn](https://github.com/RPP1011/rl4burn) - Reinforcement learning algorithms for the Burn ML framework
