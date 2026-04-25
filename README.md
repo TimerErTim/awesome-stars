@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Java](#java)
@@ -17,6 +18,10 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
+
+## C 
+
+- [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
 
 ## Dockerfile 
 
@@ -59,6 +64,7 @@
 
 ## Rust 
 
+- [ccxt/binance-rs](https://github.com/ccxt/binance-rs) - Rust Library for the Binance API
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rust-works/succinctly](https://github.com/rust-works/succinctly) - Succinct data structures
@@ -86,7 +92,7 @@
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [sassman/putzen-rs](https://github.com/sassman/putzen-rs) - "putzen" is German and means cleaning. It helps keeping your disk clean of build and dependency artifacts safely.
 - [cledouarec/sara](https://github.com/cledouarec/sara) - Streamlining Solution, Architecture, and Requirements for perfect Alignment.
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
