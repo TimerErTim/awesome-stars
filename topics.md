@@ -15,12 +15,14 @@
 - [backend](#backend)
 - [bash](#bash)
 - [blockchain](#blockchain)
+- [c](#c)
 - [cli](#cli)
 - [cms](#cms)
 - [code](#code)
 - [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
+- [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [css](#css)
 - [data-engineering](#data-engineering)
@@ -148,6 +150,10 @@
 
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
 
+## c 
+
+- [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
+
 ## cli 
 
 - [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
@@ -176,6 +182,10 @@
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+## cryptocurrency 
+
+- [ccxt/binance-rs](https://github.com/ccxt/binance-rs) - Rust Library for the Binance API
 
 ## cryptography 
 
@@ -289,7 +299,7 @@
 
 ## git 
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 
 ## gui 
 
@@ -546,6 +556,7 @@
 
 ## rust 
 
+- [ccxt/binance-rs](https://github.com/ccxt/binance-rs) - Rust Library for the Binance API
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -645,6 +656,7 @@
 
 ## trading 
 
+- [ccxt/binance-rs](https://github.com/ccxt/binance-rs) - Rust Library for the Binance API
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 
 ## tui 
