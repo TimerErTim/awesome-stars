@@ -435,6 +435,8 @@
 
 ## others 
 
+- [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [josephschmitt/zide](https://github.com/josephschmitt/zide) - Group of configuration files and scripts to create an IDE-like experience in zellij
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rust-works/succinctly](https://github.com/rust-works/succinctly) - Succinct data structures
@@ -483,7 +485,7 @@
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [khonsulabs/cushy-clicker](https://github.com/khonsulabs/cushy-clicker) - A proof-of-concept library for creating clicker/incremental games in Rust using Cushy
 - [radekvit/coffee_break](https://github.com/radekvit/coffee_break) - Take a break while compiling.
-- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
+- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Inference at the speed of light.
 - [NoahGav/oxide-lang](https://github.com/NoahGav/oxide-lang) - 
 - [ariasanovsky/spindle](https://github.com/ariasanovsky/spindle) - 
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
