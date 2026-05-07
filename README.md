@@ -49,6 +49,7 @@
 
 ## Others 
 
+- [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Typst template for writing the bachelor thesis at FH Upper Austria, Campus Hagenberg
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 
 ## Python 
