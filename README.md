@@ -195,6 +195,7 @@
 
 ## Typst 
 
+- [PabloRuizCuevas/numty](https://github.com/PabloRuizCuevas/numty) - Numeric Typst
 - [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Typst template for writing the bachelor thesis at FH Upper Austria, Campus Hagenberg
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
 - [hongjr03/typst-zebraw](https://github.com/hongjr03/typst-zebraw) - Displaying code blocks with line numbers and line highlighting.
