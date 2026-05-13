@@ -64,6 +64,7 @@
 
 ## Rust 
 
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [sermuns/ratatypst](https://github.com/sermuns/ratatypst) - PoC Typst package to render Ratatui apps
 - [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
@@ -147,7 +148,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [dimforge/parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [ariasanovsky/spindle](https://github.com/ariasanovsky/spindle) - 
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
