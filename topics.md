@@ -462,6 +462,7 @@
 
 ## others 
 
+- [typst-things/source-to-class-diagram](https://github.com/typst-things/source-to-class-diagram) - 
 - [PabloRuizCuevas/numty](https://github.com/PabloRuizCuevas/numty) - Numeric Typst
 - [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Optionated Typst thesis template for Campus Hagenberg, University of applied sciences Upper Austria, suitable for bachelor's thesis and potentially more (master's thesis, lab reports, ...)
 - [sermuns/ratatypst](https://github.com/sermuns/ratatypst) - PoC Typst package to render Ratatui apps
@@ -667,6 +668,7 @@
 
 ## shell 
 
+- [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## sql 
