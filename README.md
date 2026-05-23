@@ -64,6 +64,7 @@
 
 ## Rust 
 
+- [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [frozolotl/typst-mutilate](https://github.com/frozolotl/typst-mutilate) - A tool to replace words in a typst document with random garbage.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
@@ -198,6 +199,7 @@
 
 ## Typst 
 
+- [typst-things/source-to-class-diagram](https://github.com/typst-things/source-to-class-diagram) - 
 - [PabloRuizCuevas/numty](https://github.com/PabloRuizCuevas/numty) - Numeric Typst
 - [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Optionated Typst thesis template for Campus Hagenberg, University of applied sciences Upper Austria, suitable for bachelor's thesis and potentially more (master's thesis, lab reports, ...)
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
