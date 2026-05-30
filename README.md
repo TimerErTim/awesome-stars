@@ -6,7 +6,6 @@
 ## Contents
 
 - [C](#c)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -22,10 +21,6 @@
 ## C 
 
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
-
-## Dockerfile 
-
-- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
 
 ## Go 
 
@@ -43,6 +38,7 @@
 ## Kotlin 
 
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
+- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
 - [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
