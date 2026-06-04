@@ -130,7 +130,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
-- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
+- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run Detekt static analysis in GitHub Actions with configurable Detekt and Java versions.
 - [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 
 ## api 
@@ -366,7 +366,7 @@
 ## kotlin 
 
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
-- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
+- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run Detekt static analysis in GitHub Actions with configurable Detekt and Java versions.
 - [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
