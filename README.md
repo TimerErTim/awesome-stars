@@ -38,7 +38,7 @@
 ## Kotlin 
 
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
-- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run detekt for all files
+- [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run Detekt static analysis in GitHub Actions with configurable Detekt and Java versions.
 - [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -50,7 +50,6 @@
 ## Python 
 
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
 - [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -70,6 +69,7 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) - Rust Library for the Binance API
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [rust-works/succinctly](https://github.com/rust-works/succinctly) - Succinct data structures
 - [Enter-tainer/zint-wasi](https://github.com/Enter-tainer/zint-wasi) - Barcode generator for typst
