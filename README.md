@@ -9,6 +9,7 @@
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
@@ -35,6 +36,10 @@
 - [taylorh140/typst-pintora](https://github.com/taylorh140/typst-pintora) - A packaged version of pintora intended as a typst plugin.
 - [peter-murray/setup-detekt](https://github.com/peter-murray/setup-detekt) - GitHub Action for resolving and installing a specific version of detekt on a GitHub Actions Runner.
 
+## Just 
+
+- [HSGamer/typst-mmdr](https://github.com/HSGamer/typst-mmdr) - A Typst plugin to render Mermaid diagrams
+
 ## Kotlin 
 
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
@@ -60,6 +65,7 @@
 
 ## Rust 
 
+- [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
 - [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [frozolotl/typst-mutilate](https://github.com/frozolotl/typst-mutilate) - A tool to replace words in a typst document with random garbage.
@@ -195,6 +201,8 @@
 
 ## Typst 
 
+- [fogsong233/h-graph](https://github.com/fogsong233/h-graph) - 
+- [LucaCiucci/bob-typ](https://github.com/LucaCiucci/bob-typ) - svgbob for typst, powered by wasm
 - [fenjalien/metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
 - [ragtux/kip](https://github.com/ragtux/kip) - Kip: Pikchr diagram language integration for Typst - render PIC-like diagrams as SVG. Visit https://pikchr.org/ for additional details.
 - [GeronimoCastano/typed-smiles](https://github.com/GeronimoCastano/typed-smiles) - Render SMILES chemical structure strings as 2D molecular diagrams in Typst documents.
