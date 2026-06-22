@@ -463,6 +463,7 @@
 
 ## others 
 
+- [guilhermegarcia/synkit](https://github.com/guilhermegarcia/synkit) - A toolkit to create syntactic representations in Typst
 - [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
 - [HSGamer/typst-mmdr](https://github.com/HSGamer/typst-mmdr) - A Typst plugin to render Mermaid diagrams
 - [fogsong233/h-graph](https://github.com/fogsong233/h-graph) - 
