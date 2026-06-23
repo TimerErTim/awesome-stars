@@ -64,6 +64,7 @@
 
 ## Rust 
 
+- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
 - [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
