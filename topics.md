@@ -469,6 +469,7 @@
 
 ## others 
 
+- [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [jean-pierreBoth/annembed](https://github.com/jean-pierreBoth/annembed) - data embedding based on approximate nearest neighbour
 - [guilhermegarcia/synkit](https://github.com/guilhermegarcia/synkit) - A toolkit to create syntactic representations in Typst
 - [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
