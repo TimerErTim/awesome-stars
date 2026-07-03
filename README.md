@@ -70,6 +70,7 @@
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
+- [GeronimoCastano/typed-smiles](https://github.com/GeronimoCastano/typed-smiles) - Render SMILES chemical structure strings as 2D molecular diagrams in Typst documents.
 - [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [frozolotl/typst-mutilate](https://github.com/frozolotl/typst-mutilate) - A tool to replace words in a typst document with random garbage.
@@ -211,7 +212,6 @@
 - [LucaCiucci/bob-typ](https://github.com/LucaCiucci/bob-typ) - svgbob for typst, powered by wasm
 - [fenjalien/metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
 - [ragtux/kip](https://github.com/ragtux/kip) - Kip: Pikchr diagram language integration for Typst - render PIC-like diagrams as SVG. Visit https://pikchr.org/ for additional details.
-- [GeronimoCastano/typed-smiles](https://github.com/GeronimoCastano/typed-smiles) - Render SMILES chemical structure strings as 2D molecular diagrams in Typst documents.
 - [typst-things/source-to-class-diagram](https://github.com/typst-things/source-to-class-diagram) - 
 - [PabloRuizCuevas/numty](https://github.com/PabloRuizCuevas/numty) - Numeric Typst
 - [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Optionated Typst thesis template for Campus Hagenberg, University of applied sciences Upper Austria, suitable for bachelor's thesis and potentially more (master's thesis, lab reports, ...)
