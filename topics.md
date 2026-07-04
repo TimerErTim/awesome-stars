@@ -35,6 +35,7 @@
 - [developer-tools](#developer-tools)
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
+- [electron](#electron)
 - [embedded](#embedded)
 - [esp32](#esp32)
 - [finance](#finance)
@@ -255,6 +256,10 @@
 
 - [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - Batteries-included CDN, reverse proxy and Load Balancer with Docker support using Cloudflare Pingora.
 
+## electron 
+
+- [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
+
 ## embedded 
 
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
@@ -469,6 +474,7 @@
 
 ## others 
 
+- [ayam04/fya](https://github.com/ayam04/fya) - 
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [jean-pierreBoth/annembed](https://github.com/jean-pierreBoth/annembed) - data embedding based on approximate nearest neighbour
 - [guilhermegarcia/synkit](https://github.com/guilhermegarcia/synkit) - A toolkit to create syntactic representations in Typst
@@ -720,6 +726,7 @@
 
 ## typescript 
 
+- [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
