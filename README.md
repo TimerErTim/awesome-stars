@@ -203,6 +203,7 @@
 
 ## TypeScript 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
 - [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons) - Community-based fork of Motion Canvas.
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
