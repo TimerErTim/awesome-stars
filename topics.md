@@ -17,6 +17,7 @@
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [c](#c)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
 - [code](#code)
@@ -167,6 +168,10 @@
 ## c 
 
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
+
+## claude-code 
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 
 ## cli 
 
@@ -601,6 +606,7 @@
 
 ## rag 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 
