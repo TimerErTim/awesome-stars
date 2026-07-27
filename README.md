@@ -209,7 +209,7 @@
 - [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
 - [canvas-commons/canvas-commons](https://github.com/canvas-commons/canvas-commons) - Community-based fork of Motion Canvas.
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
