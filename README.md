@@ -39,6 +39,7 @@
 
 ## JavaScript 
 
+- [TimerErTim/TimerErTim](https://github.com/TimerErTim/TimerErTim) - Monorepo for my internet identity and according media/projects.
 - [taylorh140/typst-pintora](https://github.com/taylorh140/typst-pintora) - A packaged version of pintora intended as a typst plugin.
 - [peter-murray/setup-detekt](https://github.com/peter-murray/setup-detekt) - GitHub Action for resolving and installing a specific version of detekt on a GitHub Actions Runner.
 
@@ -60,6 +61,7 @@
 
 ## Python 
 
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [ayam04/fya](https://github.com/ayam04/fya) - 
