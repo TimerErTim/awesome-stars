@@ -98,6 +98,7 @@
 - [sql](#sql)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [tui](#tui)
 - [typescript](#typescript)
@@ -110,6 +111,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -726,6 +728,7 @@
 
 ## self-hosted 
 
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 
@@ -754,6 +757,11 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+## text-to-speech 
+
+- [Saganaki22/ComfyUI-OmniVoice-TTS](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) - OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and multi-speaker dialogue
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 
 ## trading 
 
@@ -826,6 +834,10 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
+
+## youtube 
+
+- [TimerErTim/TimerErTim](https://github.com/TimerErTim/TimerErTim) - Monorepo for my internet identity and according media/projects.
 
 ## zsh 
 
