@@ -230,7 +230,6 @@
 - [fenjalien/metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
 - [ragtux/kip](https://github.com/ragtux/kip) - Kip: Pikchr diagram language integration for Typst - render PIC-like diagrams as SVG. Visit https://pikchr.org/ for additional details.
 - [GeronimoCastano/typed-smiles](https://github.com/GeronimoCastano/typed-smiles) - Render SMILES chemical structure strings as 2D molecular diagrams in Typst documents.
-- [typst-things/source-to-class-diagram](https://github.com/typst-things/source-to-class-diagram) - 
 - [PabloRuizCuevas/numty](https://github.com/PabloRuizCuevas/numty) - Numeric Typst
 - [TimerErTim/hagenberg-thesis-typst](https://github.com/TimerErTim/hagenberg-thesis-typst) - Optionated Typst thesis template for Campus Hagenberg, University of applied sciences Upper Austria, suitable for bachelor's thesis and potentially more (master's thesis, lab reports, ...)
 - [7ijme/eqalc](https://github.com/7ijme/eqalc) - Convert Typst equations into functions
