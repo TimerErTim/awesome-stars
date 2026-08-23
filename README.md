@@ -71,7 +71,7 @@
 - [VincentGranville/Machine-Learning](https://github.com/VincentGranville/Machine-Learning) - Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generative AI.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 
 ## Rust 
