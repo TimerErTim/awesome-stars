@@ -159,7 +159,7 @@
 ## api 
 
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 
 ## artificial-intelligence 
 
@@ -178,7 +178,7 @@
 ## backend 
 
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 
 ## bash 
 
@@ -312,7 +312,7 @@
 
 ## framework 
 
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [elftausend/custos](https://github.com/elftausend/custos) - A minimal OpenCL, CUDA, Vulkan and host CPU array manipulation engine / framework.
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 
@@ -411,7 +411,7 @@
 
 ## json 
 
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 
 ## kotlin 
@@ -645,7 +645,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
 - [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [pkalivas/radiate](https://github.com/pkalivas/radiate) - A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques
@@ -836,7 +836,7 @@
 
 ## web 
 
-- [sillohq/core](https://github.com/sillohq/core) - The Utility first python web toolkit
+- [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
