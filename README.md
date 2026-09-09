@@ -228,6 +228,7 @@
 
 ## Typst 
 
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [guilhermegarcia/synkit](https://github.com/guilhermegarcia/synkit) - A toolkit to create syntactic representations in Typst
 - [fogsong233/h-graph](https://github.com/fogsong233/h-graph) - 
 - [LucaCiucci/bob-typ](https://github.com/LucaCiucci/bob-typ) - svgbob for typst, powered by wasm
