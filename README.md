@@ -77,6 +77,7 @@
 
 ## Rust 
 
+- [hydai/lineguard](https://github.com/hydai/lineguard) - A CLI tool for checking newlines at the end of files or trailing whitespace at the end of lines.
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - Efficient and versatile WebAssembly interpreter for embedded systems.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
