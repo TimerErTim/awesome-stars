@@ -8,6 +8,7 @@
 - [C](#c)
 - [Cuda](#cuda)
 - [Go](#go)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Just](#just)
@@ -32,6 +33,10 @@
 ## Go 
 
 - [leereilly/gh-dungeons](https://github.com/leereilly/gh-dungeons) - A GitHub CLI extension roguelike dungeon crawler that turns your codebase into a playable game. Procedurally generated, deterministic dungeons are unique to each repository and SHA.
+
+## HTML 
+
+- [HTBLA-Grieskirchen/YAMS](https://github.com/HTBLA-Grieskirchen/YAMS) - Yet Another Management Software is a management system for patients, customers and their pets. It uses a centralized data storage system to allow seemless utilization of different client platforms.
 
 ## Java 
 
@@ -225,7 +230,6 @@
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-- [HTBLA-Grieskirchen/YAMS](https://github.com/HTBLA-Grieskirchen/YAMS) - Yet Another Management Software is a management system for patients, customers and their pets. It uses a centralized data storage system to allow seemless utilization of different client platforms.
 
 ## Typst 
 
