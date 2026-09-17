@@ -28,7 +28,7 @@
 
 ## Cuda 
 
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 
 ## Go 
 
@@ -62,6 +62,7 @@
 
 ## Others 
 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 
 ## Python 
@@ -86,13 +87,12 @@
 - [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [hydai/lineguard](https://github.com/hydai/lineguard) - A CLI tool for checking newlines at the end of files or trailing whitespace at the end of lines.
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - Efficient and versatile WebAssembly interpreter for embedded systems.
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [jean-pierreBoth/annembed](https://github.com/jean-pierreBoth/annembed) - data embedding based on approximate nearest neighbour
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
@@ -138,7 +138,7 @@
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [bevyengine/dlss_wgpu](https://github.com/bevyengine/dlss_wgpu) - 
 - [agerasev/ringbuf](https://github.com/agerasev/ringbuf) - Lock-free SPSC FIFO ring buffer with direct access to inner data
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
