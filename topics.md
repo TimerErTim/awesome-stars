@@ -39,6 +39,7 @@
 - [devops](#devops)
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [embedded](#embedded)
 - [esp32](#esp32)
@@ -301,6 +302,10 @@
 
 - [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - Batteries-included CDN, reverse proxy and Load Balancer with Docker support using Cloudflare Pingora.
 
+## dsh-plugin 
+
+- [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond sof
+
 ## electron 
 
 - [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
@@ -551,7 +556,6 @@
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [ayam04/fya](https://github.com/ayam04/fya) - 
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [jean-pierreBoth/annembed](https://github.com/jean-pierreBoth/annembed) - data embedding based on approximate nearest neighbour
@@ -594,7 +598,7 @@
 - [qo/term](https://github.com/qo/term) - emulate terminal screenshots in typst
 - [ntjess/wrap-it](https://github.com/ntjess/wrap-it) - wrap text around Typst figures and content
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
+- [fletcher-package/fletcher](https://github.com/fletcher-package/fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [taylorh140/typst-pintora](https://github.com/taylorh140/typst-pintora) - A packaged version of pintora intended as a typst plugin.
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
@@ -657,6 +661,7 @@
 
 ## programming-language 
 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## prompt-engineering 
