@@ -219,6 +219,7 @@
 
 ## Shell 
 
+- [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [josephschmitt/zide](https://github.com/josephschmitt/zide) - Group of configuration files and scripts to create an IDE-like experience in zellij
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
 
