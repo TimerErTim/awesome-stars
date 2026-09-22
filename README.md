@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [TimerErTim/TimerErTim](https://github.com/TimerErTim/TimerErTim) - Monorepo for my internet identity and according media/projects.
 - [taylorh140/typst-pintora](https://github.com/taylorh140/typst-pintora) - A packaged version of pintora intended as a typst plugin.
 - [peter-murray/setup-detekt](https://github.com/peter-murray/setup-detekt) - GitHub Action for resolving and installing a specific version of detekt on a GitHub Actions Runner.
@@ -225,6 +226,7 @@
 
 ## TypeScript 
 
+- [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape!
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [mlcyclops/lucidagentide](https://github.com/mlcyclops/lucidagentide) - Security-First Agentic IDE Coding Harness
