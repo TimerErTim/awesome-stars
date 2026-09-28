@@ -788,6 +788,7 @@
 
 ## self-hosted 
 
+- [alvarobartt/sys1](https://github.com/alvarobartt/sys1) - Blazing-fast self-hosted inference for open-weight decision models with a System One API, written in Rust.
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 
