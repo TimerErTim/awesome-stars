@@ -552,6 +552,8 @@
 
 ## others 
 
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
+- [razorback16/openjev](https://github.com/razorback16/openjev) - Open, Jev-compatible System One decision server on DiffusionGemma
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape!
 - [hydai/lineguard](https://github.com/hydai/lineguard) - A CLI tool for checking newlines at the end of files or trailing whitespace at the end of lines.
@@ -788,7 +790,7 @@
 
 ## self-hosted 
 
-- [alvarobartt/sys1](https://github.com/alvarobartt/sys1) - Blazing fast structured decisions for System One open-models self-hosted with a TypeSafe AI compatible API, written in Rust.
+- [alvarobartt/sys1](https://github.com/alvarobartt/sys1) - Blazing fast, self-hosted structured decisions for open-weight models with a TypeSafe AI System One-compatible API, written in Rust.
 - [TimerErTim/plapok](https://github.com/TimerErTim/plapok) - Realtime collaborative simple to use planning poker for sprint planning. Uses SpacetimeDB 2.0 and GitHub Pages for hosting.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 
