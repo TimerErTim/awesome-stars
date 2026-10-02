@@ -17,6 +17,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -225,6 +226,10 @@
 - [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [josephschmitt/zide](https://github.com/josephschmitt/zide) - Group of configuration files and scripts to create an IDE-like experience in zellij
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
+
+## Swift 
+
+- [PhilRoli/claudeusage](https://github.com/PhilRoli/claudeusage) - Menu bar app for tracking Claude Code usage limits and token costs
 
 ## TypeScript 
 
