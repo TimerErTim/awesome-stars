@@ -45,6 +45,7 @@
 - [esp32](#esp32)
 - [fastapi](#fastapi)
 - [finance](#finance)
+- [font](#font)
 - [framework](#framework)
 - [game](#game)
 - [game-development](#game-development)
@@ -325,6 +326,10 @@
 ## finance 
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
+
+## font 
+
+- [nicoverbruggen/libron](https://github.com/nicoverbruggen/libron) - A manually tuned font revision of Readerly, with reduced and altered serifs, optimized for digital reading and e-readers. OFL licensed.
 
 ## framework 
 
