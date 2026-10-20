@@ -566,6 +566,7 @@
 
 ## others 
 
+- [GeronimoCastano/typed-dsa](https://github.com/GeronimoCastano/typed-dsa) - 
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [PhilRoli/claudeusage](https://github.com/PhilRoli/claudeusage) - Menu bar app for tracking Claude Code usage limits and token costs
