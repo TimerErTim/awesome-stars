@@ -566,6 +566,9 @@
 
 ## others 
 
+- [JeppeKlitgaard/impressive-impression](https://github.com/JeppeKlitgaard/impressive-impression) - A highly-configurable, professional CV template
+- [elegaanz/vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+- [Ants-Aare/zero-calc](https://github.com/Ants-Aare/zero-calc) - Calculate and display operations with "Zero" quantities and numbers.
 - [GeronimoCastano/typed-dsa](https://github.com/GeronimoCastano/typed-dsa) - 
 - [pacaunt/sanor](https://github.com/pacaunt/sanor) - A tool for creating precise animated presentation in Typst.
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
