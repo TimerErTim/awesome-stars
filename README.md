@@ -176,7 +176,7 @@
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) - Post-quantum QUIC-based VPN
-- [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - Batteries-included CDN, reverse proxy and Load Balancer with Docker support using Cloudflare Pingora.
+- [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - The easiest reverse proxy you'll ever configure. Load balancing, caching, automatic HTTPS and Docker/Kubernetes discovery, built on Cloudflare Pingora.
 - [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
