@@ -308,7 +308,7 @@
 
 ## docker 
 
-- [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - The easiest proxy will you ever configure. Batteries-included CDN, reverse proxy and Load Balancer with Docker support powered by Cloudflare Pingora.
+- [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - The easiest reverse proxy you'll ever configure. Load balancing, caching, automatic HTTPS and Docker/Kubernetes discovery, built on Cloudflare Pingora.
 
 ## dsh-plugin 
 
