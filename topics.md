@@ -103,6 +103,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [sql](#sql)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -825,6 +826,10 @@
 
 - [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+## skills 
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 
 ## sql 
 
