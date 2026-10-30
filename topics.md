@@ -12,6 +12,7 @@
 - [ai-agents](#ai-agents)
 - [algorithms](#algorithms)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -171,6 +172,13 @@
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
 - [natiginfo/action-detekt-all](https://github.com/natiginfo/action-detekt-all) - Run Detekt static analysis in GitHub Actions with configurable Detekt and Java versions.
 - [korlibs/korge](https://github.com/korlibs/korge) - Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
+
+## animation 
+
+- [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape!
+- [jkjkil4/JAnim](https://github.com/jkjkil4/JAnim) - Programmatic animation engine for creating precise and smooth animations with real-time feedback
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 
 ## api 
 
@@ -578,7 +586,6 @@
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 - [razorback16/openjev](https://github.com/razorback16/openjev) - Open, Jev-compatible System One decision server on DiffusionGemma
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-- [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape!
 - [hydai/lineguard](https://github.com/hydai/lineguard) - A CLI tool for checking newlines at the end of files or trailing whitespace at the end of lines.
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
