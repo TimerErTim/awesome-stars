@@ -576,6 +576,7 @@
 
 ## others 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [JeppeKlitgaard/impressive-impression](https://github.com/JeppeKlitgaard/impressive-impression) - A highly-configurable, professional CV template
 - [elegaanz/vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
 - [Ants-Aare/zero-calc](https://github.com/Ants-Aare/zero-calc) - Calculate and display operations with "Zero" quantities and numbers.
