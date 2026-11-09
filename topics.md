@@ -65,6 +65,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -455,6 +456,11 @@
 - [sillohq/core](https://github.com/sillohq/core) - The Buildsmith framework. Fast, async, and built with everything you need to ship.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 
+## knowledge-graph 
+
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
+
 ## kotlin 
 
 - [littlektframework/littlekt](https://github.com/littlektframework/littlekt) - A multiplatform WebGPU 2D game framework written in Kotlin. Build your own game engine on top.
@@ -576,6 +582,7 @@
 
 ## others 
 
+- [Lsh0x/rs-stats](https://github.com/Lsh0x/rs-stats) - Statistical library in rust
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [JeppeKlitgaard/impressive-impression](https://github.com/JeppeKlitgaard/impressive-impression) - A highly-configurable, professional CV template
 - [elegaanz/vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
