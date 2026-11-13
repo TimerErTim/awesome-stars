@@ -114,7 +114,7 @@
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [chillcicada/typst-aasvg](https://github.com/chillcicada/typst-aasvg) - 
 - [lucifer1004/conch](https://github.com/lucifer1004/conch) - A shell simulator for Typst
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 - [frozolotl/typst-mutilate](https://github.com/frozolotl/typst-mutilate) - A tool to replace words in a typst document with random garbage.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
