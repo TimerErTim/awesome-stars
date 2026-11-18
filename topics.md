@@ -604,7 +604,7 @@
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
 - [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
-- [ayam04/fya](https://github.com/ayam04/fya) - 
+- [ayam04/fya](https://github.com/ayam04/fya) - security tool to break your vibe coded apps
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [jean-pierreBoth/annembed](https://github.com/jean-pierreBoth/annembed) - data embedding based on approximate nearest neighbour
 - [guilhermegarcia/synkit](https://github.com/guilhermegarcia/synkit) - A toolkit to create syntactic representations in Typst
