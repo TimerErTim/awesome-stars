@@ -109,6 +109,7 @@
 - [shell](#shell)
 - [skills](#skills)
 - [sql](#sql)
+- [static-site-generator](#static-site-generator)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [text-to-speech](#text-to-speech)
@@ -863,6 +864,10 @@
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+## static-site-generator 
+
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 ## tensorflow 
 
